@@ -10,7 +10,7 @@ Have Fun, if u copy my code and paste it pls gimme credits. thx
 Preview: https://streamable.com/t8cl1a 
 
 ----------------------------------------
-                                        |
-Discord: https://discord.gg/FQEa5wmu7e  |
-                                        |
+                                        
+Discord: https://discord.gg/FQEa5wmu7e  
+                                        
 ----------------------------------------
