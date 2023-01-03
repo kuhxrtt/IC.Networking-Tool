@@ -16,5 +16,7 @@ Discord: https://discord.gg/FQEa5wmu7e
 ----------------------------------------
 
 10 Stars = Big Update
+----------------------------------------
 20 Stars = Discord Multi Tool
+----------------------------------------
 50 Stars = Python RAT
